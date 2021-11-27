@@ -1,0 +1,12 @@
+[submodule "tomcat"]
+	path = tomcat
+	url = https://github.com/GostarehNegar/tomcat.git
+[submodule "tomcat-bot-hosting"]
+	path = tomcat-bot-hosting
+	url = https://github.com/GostarehNegar/tomcat-bot-hosting.git
+[submodule "tomcat-indicators-tulip"]
+	path = tomcat-indicators-tulip
+	url = https://github.com/GostarehNegar/tomcat-indicators-tulip.git
+[submodule "tomcat-indicators-talib"]
+	path = tomcat-indicators-talib
+	url = https://github.com/GostarehNegar/tomcat-indicators-talib.git
